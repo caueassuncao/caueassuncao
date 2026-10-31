@@ -3,7 +3,7 @@
 
 ## About me
 
-My projects focus on the democratization of information, software development, and the integration of Large Language Models (LLMs) into systems designed for managers and healthcare professional
+My projects focus on the democratization of information, software development, and the integration of Large Language Models (LLMs) into systems designed for managers and healthcare professionals.
 
 ## Languages, technologies & tools:
 [![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,css,debian,docker,fastapi,figma,gcp,git,github,gitlab,html,ai,js,linux,mongodb,mysql,nodejs,postgres,postman,py,react,redis,ts,wordpress,pycharm,npm,obsidian,anaconda,androidstudio)](https://skillicons.dev)
