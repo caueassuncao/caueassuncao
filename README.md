@@ -12,7 +12,7 @@ Python, FastAPI, LangChain, LangGraph, PostgreSQL, MongoDB, Qdrant, Docker, Goog
 
 ## Currently:
 - Working as an intern at the State University of Pará (UEPA), building chatbots and data tools with LLMs
-- Developing an Android app for public health units (React Native)
+- Developing an Android app with React Native for public health units (SUS)
 - Learning about: software design and .NET
   
 
